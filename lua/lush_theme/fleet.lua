@@ -10,7 +10,7 @@ local lush = require('lush')
 local hsl = lush.hsl
 
 local palette = {
-  background = "#181818",
+  background = "#010101",
   darkest = "#1e1e1e",
   darker = "#292929",
   dark = "#898989",
